@@ -1,0 +1,37 @@
+
+
+
+
+* Group information
+** Software
+Solidworks is used by all.
+** Group members
+
+| Names           | Phone number | Gatech Email               | Normal Email              |
+| Juan Rodriguez  |   3058902130 | juanmarodriguez@gatech.edu |                           |
+| Asimm Hirani    | 678-469-7657 | ahirani6@gatech.edu        |                           |
+| Auston Ferrarer | 626-430-4933 | jferrarer3@gatech.edu      | jaferrarer@gmail.com      |
+| Vishakh Kumar   |   4709856530 | vkumar@gatech.edu          |                           |
+| Justin Sackett  | 678-630-9887 | jsackett3@gatech.edu       | justin.sackett1@gmail.com |                  |              |                            |                           |
+
+** Communication - GroupMe channel  
+*** DONE Setup channel - done by Auston
+CLOSED: [2016-09-01 Thu 15:53]
+
+** File sharing - github - Vishakh  
+Used to share files and stuff. This org file might be exported via ox-twbs in order to show our progress.
+*** Link - https://github.com/vishakhkumar/ME1770
+*** DONE Send the link 
+CLOSED: [2016-09-01 Thu 15:48]
+
+** Meeting information
+<2016-09-01 Thu> Since we haven't needed a meeting to actually meet, it hasn't been set up yet. Will be set up when all members have sent their calendars.
+*** TODO Send our schedules to each other.
+Courseoff
+
+* Team to-dos
+** DONE Fifth member to be found! - Justin
+CLOSED: [2016-09-01 Thu 15:30]
+Quickest issue to be solved, ever.
+** TODO Email the professor with our emails - Asimm
+
