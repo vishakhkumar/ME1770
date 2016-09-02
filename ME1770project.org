@@ -1,18 +1,23 @@
 
 
-
-
+#+NAME: ME 1770 Project Information 
+#+STARTUP: align
 * Group information
-** Software
-Solidworks is used by all.
-** Group members
 
-| Names           | Phone number | Gatech Email               | Normal Email              |
-| Juan Rodriguez  |   3058902130 | juanmarodriguez@gatech.edu |                           |
+** Group members & information
+
+|-----------------+--------------+----------------------------+---------------------------|
+| Name            | Phone number | Gatech Email               | Normal Email              |
+|-----------------+--------------+----------------------------+---------------------------|
 | Asimm Hirani    | 678-469-7657 | ahirani6@gatech.edu        |                           |
 | Auston Ferrarer | 626-430-4933 | jferrarer3@gatech.edu      | jaferrarer@gmail.com      |
-| Vishakh Kumar   |   4709856530 | vkumar@gatech.edu          |                           |
-| Justin Sackett  | 678-630-9887 | jsackett3@gatech.edu       | justin.sackett1@gmail.com |                  |              |                            |                           |
+| Juan Rodriguez  | 305-890-2130 | juanmarodriguez@gatech.edu |                           |
+| Justin Sackett  | 678-630-9887 | jsackett3@gatech.edu       | justin.sackett1@gmail.com |
+| Vishakh Kumar   | 470-985-6530 | vkumar@gatech.edu          |                           |
+|-----------------+--------------+----------------------------+---------------------------|
+
+** Software
+Solidworks is used by all.
 
 ** Communication - GroupMe channel  
 *** DONE Setup channel - done by Auston
@@ -28,10 +33,13 @@ CLOSED: [2016-09-01 Thu 15:48]
 <2016-09-01 Thu> Since we haven't needed a meeting to actually meet, it hasn't been set up yet. Will be set up when all members have sent their calendars.
 *** TODO Send our schedules to each other.
 Courseoff
+*** Calendar
 
 * Team to-dos
 ** DONE Fifth member to be found! - Justin
 CLOSED: [2016-09-01 Thu 15:30]
 Quickest issue to be solved, ever.
-** TODO Email the professor with our emails - Asimm
+** TODO Email the professor with our emails - Vishakh 
+
+
 
