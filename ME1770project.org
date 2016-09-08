@@ -17,6 +17,7 @@
 |-----------------+--------------+----------------------------+---------------------------|
 
 ** Software
+
 Solidworks is used by all.
 
 ** Communication - GroupMe channel  
@@ -42,4 +43,6 @@ Quickest issue to be solved, ever.
 ** TODO Email the professor with our emails - Vishakh 
 
 
+* Gantt chart
+Created using R.
 
