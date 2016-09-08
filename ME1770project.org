@@ -46,3 +46,15 @@ Quickest issue to be solved, ever.
 * Gantt chart
 Created using R.
 
+
+* Notes
+
+- Sub assemblies called twice count as two parts
+- Blender is a go. Ask team members.
+- 
+
+* Team proposal
+** Design Ideas 
+- ATV
+- 
+
