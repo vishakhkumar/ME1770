@@ -42,10 +42,8 @@ CLOSED: [2016-09-01 Thu 15:30]
 Quickest issue to be solved, ever.
 ** TODO Email the professor with our emails - Vishakh 
 
-
 * Gantt chart
 Created using R.
-
 
 * Notes
 
@@ -57,4 +55,79 @@ Created using R.
 ** Design Ideas 
 - ATV
 - 
+
+
+* Projects
+Subsystems:
+** Orbital Deployment 
+*** Difficulty - M
+*** Lead: Vishakh Kumar
+*** Description
+   Circular parachute and coiled spring shocks.
+** Grabbers
+*** Difficulty - H
+*** Lead:Justin
+*** Description
+   Pivoting arm with ball socket and grabbing hands 
+** Suspension
+*** Difficulty - H
+*** Lead: Asimm H
+*** Description
+  Coil spring shocks, double A-frame suspension and tire rods
+** Chassis
+*** Difficulty - H
+*** Lead:Juan
+*** Description
+  Triangular truss support frame 
+** Tires
+*** Difficulty - E
+*** Lead: Vishakh Kumar
+*** Description
+  Cylindrical tires with embossed treads.
+** Controls
+*** Difficulty - M
+*** Lead: Vishakh Kumar
+*** Description
+  Oblong shaped cockpit, Plexiglas encased w/ rectangular control panel.
+** Powertrain
+*** Difficulty - M
+*** Lead: Asimm H
+*** Description
+  Circular Motor with chain drive to rear axle with rear diff.
+** Charging
+*** Difficulty - E
+*** Lead: Auston F
+*** Description
+  Rectangular solar cells on roof.
+** Science/Storage
+*** Difficulty - E
+*** Lead: Auston F
+*** Description
+  Large prismed storage area in back of ATV.
+** Communication System
+*** Difficulty - E
+*** Lead:Juan
+*** Description
+  Conic Satellite Dish. (R)
+** Lighting
+*** Difficulty - E
+*** Lead: Justin
+*** Description
+  Semi-Paraboloid lights mounted on front of ATV.
+ 
+
+* Meeting <2016-09-15 Thu>
+** DONE Decided on Meeting Time
+CLOSED: [2016-09-15 Thu 16:19]
+2:00 pm Thursday
+** Excel Gantt Sheet
+*** Need to be more particular with subsystem sketches
+Make 21 October to 25 September.
+Make most of it early so that you're one stage ahead before deadline.
+*** Reduce time for assembly in Gantt.
+** *** DONE How gets what
+CLOSED: [2016-09-15 Thu 16:20]
+* Meeting 
+
+** Proportions
 
