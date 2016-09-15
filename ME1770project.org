@@ -64,11 +64,23 @@ Subsystems:
 *** Lead: Vishakh Kumar
 *** Description
    Circular parachute and coiled spring shocks.
+**** Aeroshell
+- 1 hour
+- Parameters
+- Made of Ceramic
+**** Skycrane
+Go crazy
+**** Parachutes
+- One parachute
+- Surface modeling
 ** Grabbers
 *** Difficulty - H
 *** Lead:Justin
 *** Description
-   Pivoting arm with ball socket and grabbing hands 
+   Pivoting arm with 4-bar linkage and grabbing hands 
+**** 4-bar linkage
+***** Animation
+Move the arms around like Wall-E
 ** Suspension
 *** Difficulty - H
 *** Lead: Asimm H
@@ -84,6 +96,7 @@ Subsystems:
 *** Lead: Vishakh Kumar
 *** Description
   Cylindrical tires with embossed treads.
+
 ** Controls
 *** Difficulty - M
 *** Lead: Vishakh Kumar
@@ -114,7 +127,34 @@ Subsystems:
 *** Lead: Justin
 *** Description
   Semi-Paraboloid lights mounted on front of ATV.
- 
+** Animation
+*** Difficulty - H
+*** Members:
+Assim
+Justin
+** Graphics
+*** Difficulty - E
+*** Members:
+Vishakh
+Ashton
+** Report
+*** Difficulty - H
+
+*** Writer:
+Assim
+Juan
+Vishakh
+
+*** Editor:
+Ashton
+Justin
+
+*** LaTeX render
+Vishakh
+
+** Github Master
+*** Lead 
+Vishakh Kumar
 
 * Meeting <2016-09-15 Thu>
 ** DONE Decided on Meeting Time
@@ -130,4 +170,18 @@ CLOSED: [2016-09-15 Thu 16:20]
 * Meeting 
 
 ** Proportions
-
+*** Wheel Base
+*** Number of wheels
+*** People - 2
+*** Ride Height
+*** Controls
+**** Steering Wheel
+**** Throttle
+**** Jotstick
+**** Brakes
+**** Accelerate
+**** Mechanical Brakes
+**** Mirrors
+**** Display Moniter
+**** Lighting
+*** 
